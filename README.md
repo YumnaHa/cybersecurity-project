@@ -42,6 +42,7 @@ How to Run the Project:
 3.	Run all cells step by step to process the data and generate insights.
    
 ▶️ [Open in Google Colab](https://colab.research.google.com/github/YumnaHa/cybersecurity-project/blob/main/Cybersecurity_Analysis.ipynb)
+⚠️ To run the notebook successfully, please upload the `Data.zip` file (which contains the CVE dataset) to your Colab session.
 
 Output:
 •	Summary statistics of CVE entries
