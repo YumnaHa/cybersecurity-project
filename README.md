@@ -40,6 +40,8 @@ How to Run the Project:
 1.	Open Cybersecurity_Analysis.ipynb using Google Colab.
 2.	Upload the CVE dataset manually or mount your Google Drive if it’s stored there.
 3.	Run all cells step by step to process the data and generate insights.
+   
+▶️ [Open in Google Colab](https://colab.research.google.com/github/YumnaHa/cybersecurity-project/blob/main/Cybersecurity_Analysis.ipynb)
 
 Output:
 •	Summary statistics of CVE entries
